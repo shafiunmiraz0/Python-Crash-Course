@@ -86,4 +86,4 @@ Python is an interpreted, high-level and general-purpose programming language. P
 
 ### Popular Open Source GitHub Repository to Contribute
 
-🟠 [![Python](https://img.shields.io/badge/Bitcoin%20🍊-Core-yellow?style=flat)](https://github.com/bitcoin/bitcoin)
+🟠 [![Python](https://img.shields.io/badge/Bitcoin%20🍊-Improvemen%20Proposals-yellow?style=flat)](https://github.com/bitcoin/bips)
